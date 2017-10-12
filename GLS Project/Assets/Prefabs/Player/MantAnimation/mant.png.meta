@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 531249d2133a0ef48864591aa007e5af
+timeCreated: 1481319333
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mant_0
+    21300002: mant_1
+    21300004: mant_2
+    21300006: mant_3
+    21300008: mant_4
+    21300010: mant_5
+    21300012: mant_6
+    21300014: mant_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 413
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.96, y: -1}
+        - {x: -20.96, y: -2}
+        - {x: -21.96, y: -16}
+        - {x: -21.96, y: -69}
+        - {x: -20.96, y: -70}
+        - {x: 16.04, y: -70}
+        - {x: 41.04, y: -66}
+        - {x: 46.04, y: -58}
+        - {x: 46.04, y: -44}
+        - {x: 7.040001, y: -1}
+    - name: mant_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 413
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.040009, y: -24}
+        - {x: 3.0400085, y: -1}
+        - {x: -12.959991, y: -1}
+        - {x: -20.959991, y: -10}
+        - {x: -20.959991, y: -59}
+        - {x: -18.959991, y: -68}
+        - {x: 24.040009, y: -68}
+        - {x: 47.04001, y: -59}
+        - {x: 47.04001, y: -45}
+        - {x: 42.04001, y: -39}
+    - name: mant_2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 413
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.960022, y: -1}
+        - {x: -20.960022, y: -14}
+        - {x: -20.960022, y: -69}
+        - {x: 47.039978, y: -69}
+        - {x: 47.039978, y: -34}
+        - {x: 17.039978, y: -1}
+    - name: mant_3
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 0
+        width: 413
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.040039, y: -1}
+        - {x: -13.959961, y: -1}
+        - {x: -16.95996, y: -5}
+        - {x: -17.95996, y: -18}
+        - {x: -17.95996, y: -65}
+        - {x: -10.959961, y: -68}
+        - {x: 27.04004, y: -68}
+        - {x: 45.04004, y: -59}
+        - {x: 45.04004, y: -44}
+        - {x: 40.04004, y: -25}
+    - name: mant_4
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 413
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.959961, y: -1}
+        - {x: -17.95996, y: -13}
+        - {x: -17.95996, y: -61}
+        - {x: -15.959961, y: -67}
+        - {x: 50.04004, y: -67}
+        - {x: 53.04004, y: -66}
+        - {x: 53.04004, y: -45}
+        - {x: 9.040039, y: -1}
+    - name: mant_5
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 0
+        width: 413
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.959961, y: -1}
+        - {x: -16.95996, y: -5}
+        - {x: -17.95996, y: -13}
+        - {x: -17.95996, y: -60}
+        - {x: -5.959961, y: -64}
+        - {x: 41.04004, y: -64}
+        - {x: 55.04004, y: -58}
+        - {x: 55.04004, y: -41}
+        - {x: 7.040039, y: -1}
+    - name: mant_6
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 413
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.459839, y: -1}
+        - {x: -18.459839, y: -4}
+        - {x: -20.459839, y: -24}
+        - {x: -20.459839, y: -50}
+        - {x: -16.459839, y: -64}
+        - {x: 5.540161, y: -67}
+        - {x: 36.54016, y: -67}
+        - {x: 48.54016, y: -55}
+        - {x: 48.54016, y: -41}
+        - {x: 12.540161, y: -1}
+    - name: mant_7
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 0
+        width: 413
+        height: 300
+      alignment: 9
+      pivot: {x: 0.41, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.959839, y: -1}
+        - {x: -20.959839, y: -21}
+        - {x: -20.959839, y: -61}
+        - {x: -18.959839, y: -65}
+        - {x: 19.040161, y: -65}
+        - {x: 37.04016, y: -63}
+        - {x: 51.04016, y: -50}
+        - {x: 51.04016, y: -41}
+        - {x: 3.0401611, y: -1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

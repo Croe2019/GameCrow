@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 5a0162669311fd142a32a485a8696588
+timeCreated: 1481317638
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rollall_0
+    21300002: rollall_1
+    21300004: rollall_2
+    21300006: rollall_3
+    21300008: rollall_4
+    21300010: rollall_5
+    21300012: rollall_6
+    21300014: rollall_7
+    21300016: rollall_8
+    21300018: rollall_9
+    21300020: rollall_10
+    21300022: rollall_11
+    21300024: rollall_12
+    21300026: rollall_13
+    21300028: rollall_14
+    21300030: rollall_15
+    21300032: rollall_16
+    21300034: rollall_17
+    21300036: rollall_18
+    21300038: rollall_19
+    21300040: rollall_20
+    21300042: rollall_21
+    21300044: rollall_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rollall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 43.5}
+        - {x: -20, y: -34.5}
+        - {x: -13, y: -40.5}
+        - {x: 19, y: -40.5}
+        - {x: 19, y: 43.5}
+    - name: rollall_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.04348, y: 41.5}
+        - {x: -19.95652, y: 41.5}
+        - {x: -19.95652, y: -23.5}
+        - {x: -18.95652, y: -37.5}
+        - {x: -12.95652, y: -39.5}
+        - {x: 9.04348, y: -39.5}
+        - {x: 19.04348, y: -35.5}
+        - {x: 20.04348, y: -32.5}
+        - {x: 20.04348, y: 27.5}
+    - name: rollall_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.91304, y: 41.5}
+        - {x: -19.91304, y: -39.5}
+        - {x: -11.91304, y: -40.5}
+        - {x: 12.08696, y: -40.5}
+        - {x: 22.08696, y: -28.5}
+        - {x: 22.08696, y: -10.5}
+        - {x: 19.08696, y: 41.5}
+    - name: rollall_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.1304321, y: 38.5}
+        - {x: -15.869568, y: 38.5}
+        - {x: -23.869568, y: 33.5}
+        - {x: -23.869568, y: -34.5}
+        - {x: -18.869568, y: -40.5}
+        - {x: 15.130432, y: -40.5}
+        - {x: 24.130432, y: -26.5}
+        - {x: 24.130432, y: 13.5}
+        - {x: 17.130432, y: 37.5}
+    - name: rollall_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.82608, y: -39.5}
+        - {x: 18.17392, y: -39.5}
+        - {x: 23.17392, y: -38.5}
+        - {x: 23.17392, y: 7.5}
+        - {x: 14.17392, y: 39.5}
+        - {x: -24.82608, y: 39.5}
+        - {x: -24.82608, y: -35.5}
+    - name: rollall_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.217407, y: 33.5}
+        - {x: 12.217407, y: 39.5}
+        - {x: -27.782593, y: 39.5}
+        - {x: -27.782593, y: -31.5}
+        - {x: -22.782593, y: -36.5}
+        - {x: -9.782593, y: -38.5}
+        - {x: 2.2174072, y: -38.5}
+        - {x: 4.217407, y: -36.5}
+        - {x: 22.217407, y: -30.5}
+        - {x: 23.217407, y: -28.5}
+    - name: rollall_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.260864, y: -1.5}
+        - {x: 16.260864, y: 28.5}
+        - {x: 15.260864, y: 39.5}
+        - {x: -18.739136, y: 39.5}
+        - {x: -24.739136, y: 38.5}
+        - {x: -31.739136, y: -14.5}
+        - {x: -31.739136, y: -25.5}
+        - {x: -27.739136, y: -37.5}
+        - {x: -20.739136, y: -38.5}
+        - {x: 8.260864, y: -38.5}
+        - {x: 16.260864, y: -29.5}
+        - {x: 16.260864, y: -21.5}
+        - {x: 15.260864, y: -13.5}
+    - name: rollall_7
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.695618, y: 39.5}
+        - {x: -32.695618, y: 8.5}
+        - {x: -32.695618, y: -23.5}
+        - {x: -25.695618, y: -38.5}
+        - {x: 5.3043823, y: -38.5}
+        - {x: 14.304382, y: -31.5}
+        - {x: 14.304382, y: 17.5}
+        - {x: 12.304382, y: 36.5}
+        - {x: 9.304382, y: 39.5}
+    - name: rollall_8
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.65216, y: 41.5}
+        - {x: -28.65216, y: 40.5}
+        - {x: -28.65216, y: -37.5}
+        - {x: -20.65216, y: -40.5}
+        - {x: 13.347839, y: -40.5}
+        - {x: 13.347839, y: 40.5}
+        - {x: 12.347839, y: 41.5}
+    - name: rollall_9
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.608704, y: 41.5}
+        - {x: -26.608704, y: 27.5}
+        - {x: -27.608704, y: 20.5}
+        - {x: -27.608704, y: -35.5}
+        - {x: -26.608704, y: -39.5}
+        - {x: 10.391296, y: -39.5}
+        - {x: 12.391296, y: -38.5}
+        - {x: 12.391296, y: 39.5}
+        - {x: 7.3912964, y: 41.5}
+    - name: rollall_10
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.565186, y: 43.5}
+        - {x: -28.565186, y: -39.5}
+        - {x: 6.4348145, y: -39.5}
+        - {x: 10.434814, y: -21.5}
+        - {x: 10.434814, y: 30.5}
+        - {x: 6.4348145, y: 43.5}
+    - name: rollall_11
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.521729, y: 43.5}
+        - {x: -28.521729, y: -37.5}
+        - {x: -16.521729, y: -39.5}
+        - {x: 7.4782715, y: -39.5}
+        - {x: 10.4782715, y: -36.5}
+        - {x: 10.4782715, y: 43.5}
+    - name: rollall_12
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.4782715, y: 43.5}
+        - {x: -27.478271, y: 38.5}
+        - {x: -27.478271, y: -32.5}
+        - {x: -13.4782715, y: -40.5}
+        - {x: 11.5217285, y: -40.5}
+        - {x: 14.5217285, y: -38.5}
+        - {x: 14.5217285, y: 32.5}
+        - {x: -0.47827148, y: 43.5}
+    - name: rollall_13
+      rect:
+        serializedVersion: 2
+        x: 4420
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.434814, y: 42.5}
+        - {x: -29.434814, y: 10.5}
+        - {x: -29.434814, y: -35.5}
+        - {x: -7.4348145, y: -43.5}
+        - {x: 6.5651855, y: -43.5}
+        - {x: 14.565186, y: -41.5}
+        - {x: 14.565186, y: 42.5}
+    - name: rollall_14
+      rect:
+        serializedVersion: 2
+        x: 4760
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.391235, y: 36.5}
+        - {x: -33.391235, y: -41.5}
+        - {x: 11.608765, y: -41.5}
+        - {x: 14.608765, y: -17.5}
+        - {x: 14.608765, y: 36.5}
+    - name: rollall_15
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.652222, y: 35.5}
+        - {x: -32.34778, y: 35.5}
+        - {x: -34.34778, y: 17.5}
+        - {x: -34.34778, y: -21.5}
+        - {x: -32.34778, y: -28.5}
+        - {x: -20.347778, y: -40.5}
+        - {x: -9.347778, y: -40.5}
+        - {x: -1.3477783, y: -37.5}
+        - {x: 4.6522217, y: -32.5}
+        - {x: 12.652222, y: 3.5}
+        - {x: 12.652222, y: 31.5}
+    - name: rollall_16
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3043213, y: -42.5}
+        - {x: -1.3043213, y: -41.5}
+        - {x: -1.3043213, y: -38.5}
+        - {x: -4.3043213, y: -37.5}
+        - {x: -6.3043213, y: -39.5}
+      - - {x: -30.304321, y: 35.5}
+        - {x: -35.30432, y: 10.5}
+        - {x: -35.30432, y: -32.5}
+        - {x: -29.304321, y: -41.5}
+        - {x: -1.3043213, y: -41.5}
+        - {x: 11.695679, y: -21.5}
+        - {x: 11.695679, y: 35.5}
+    - name: rollall_17
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.260864, y: 34.5}
+        - {x: -34.260864, y: 9.5}
+        - {x: -34.260864, y: -21.5}
+        - {x: -29.260864, y: -32.5}
+        - {x: -16.260864, y: -41.5}
+        - {x: 11.739136, y: -41.5}
+        - {x: 14.739136, y: -23.5}
+        - {x: 14.739136, y: 34.5}
+    - name: rollall_18
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.217407, y: 34.5}
+        - {x: -33.217407, y: -40.5}
+        - {x: -27.217407, y: -41.5}
+        - {x: 2.7825928, y: -41.5}
+        - {x: 8.782593, y: -40.5}
+        - {x: 17.782593, y: 9.5}
+        - {x: 17.782593, y: 34.5}
+    - name: rollall_19
+      rect:
+        serializedVersion: 2
+        x: 6460
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.173828, y: 34.5}
+        - {x: -30.173828, y: 12.5}
+        - {x: -30.173828, y: -27.5}
+        - {x: -13.173828, y: -41.5}
+        - {x: 11.826172, y: -41.5}
+        - {x: 13.826172, y: -35.5}
+        - {x: 13.826172, y: 34.5}
+    - name: rollall_20
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.130371, y: 36.5}
+        - {x: -28.130371, y: 14.5}
+        - {x: -28.130371, y: -33.5}
+        - {x: -22.130371, y: -36.5}
+        - {x: -11.130371, y: -41.5}
+        - {x: 0.8696289, y: -41.5}
+        - {x: 13.869629, y: -38.5}
+        - {x: 14.869629, y: -24.5}
+        - {x: 14.869629, y: 36.5}
+    - name: rollall_21
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.086914, y: 41.5}
+        - {x: -26.086914, y: 14.5}
+        - {x: -26.086914, y: -36.5}
+        - {x: -13.086914, y: -41.5}
+        - {x: 2.913086, y: -41.5}
+        - {x: 16.913086, y: -37.5}
+        - {x: 16.913086, y: 31.5}
+        - {x: 10.913086, y: 41.5}
+    - name: rollall_22
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 0
+        width: 340
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.956543, y: 43.5}
+        - {x: -4.043457, y: 43.5}
+        - {x: -21.043457, y: 28.5}
+        - {x: -21.043457, y: -34.5}
+        - {x: -6.043457, y: -41.5}
+        - {x: 8.956543, y: -41.5}
+        - {x: 20.956543, y: -35.5}
+        - {x: 20.956543, y: -0.5}
+        - {x: 15.956543, y: 38.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

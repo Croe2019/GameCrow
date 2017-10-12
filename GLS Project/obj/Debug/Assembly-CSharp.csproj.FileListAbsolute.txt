@@ -1,0 +1,43 @@
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\UnityEditor.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\UnityEngine.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Mono.Cecil.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Unity.DataContract.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\UnityEngine.xml
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\UnityEditor.xml
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\UnityEngine.UI.xml
+D:\GLS\Test GLS Project\Test GLS Project\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\GLS\Test GLS Project\Test GLS Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\GLS\Test GLS Project\Test GLS Project\obj\Debug\Assembly-CSharp.dll
+D:\GLS\Test GLS Project\Test GLS Project\obj\Debug\Assembly-CSharp.pdb
+D:\GLS\GLS Project\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GLS\GLS Project\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GLS\GLS Project\Temp\bin\Debug\UnityEditor.dll
+D:\GLS\GLS Project\Temp\bin\Debug\UnityEngine.dll
+D:\GLS\GLS Project\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\GLS\GLS Project\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GLS\GLS Project\Temp\bin\Debug\Mono.Cecil.dll
+D:\GLS\GLS Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GLS\GLS Project\Temp\bin\Debug\Unity.DataContract.dll
+D:\GLS\GLS Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\GLS\GLS Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\GLS\GLS Project\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GLS\GLS Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\GLS\GLS Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\GLS\GLS Project\Temp\bin\Debug\UnityEngine.xml
+D:\GLS\GLS Project\Temp\bin\Debug\UnityEditor.xml
+D:\GLS\GLS Project\Temp\bin\Debug\UnityEngine.UI.xml
+D:\GLS\GLS Project\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\GLS\GLS Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\GLS\GLS Project\obj\Debug\Assembly-CSharp.dll
+D:\GLS\GLS Project\obj\Debug\Assembly-CSharp.pdb
